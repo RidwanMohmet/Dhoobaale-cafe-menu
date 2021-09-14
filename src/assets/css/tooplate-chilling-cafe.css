@@ -14,8 +14,8 @@ https://www.tooplate.com/view/2118-chilling-cafe
 */
 
 body {
-  background-color: #525557;
-  color: #000000;
+  background-color: #3a4a58;
+  color: #8c8c8c;
   font-family: "Open Sans", Arial, Helvetica, sans-serif;
   font-size: 17px;
   font-weight: 400;
@@ -32,7 +32,7 @@ body {
 .tm-main-content { background-color: #ffffff; }
 
 #tm-intro-img {
-  background-image: url(assets/img/chilling-cafe-01.jpg);
+  background-image: url(../img/chilling-cafe-01.jpg);
   background-position: center;
   background-size: cover;
   min-height: 425px;
@@ -58,7 +58,7 @@ body {
 }
 
 .tm-section-header {
-  color: #9c652d;
+  color: #996633;
   text-align: center;
   font-weight: 400;
   font-size: 1.5rem;
